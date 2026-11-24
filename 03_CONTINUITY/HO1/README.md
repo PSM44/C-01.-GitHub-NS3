@@ -1,3 +1,5 @@
 # HO1
 
-Recovery and handoff protocol: reconstruct the active state from canonical records, verify it, and declare uncertainty explicitly.
+Cold-start reconstruction protocol for a new MORCH session or a completely blank AI.
+
+HO1 defines how to read BATON and canonical records, resolve contradictions, validate freshness and declare unknowns. Its output is a bounded operational reconstruction, not an assumption that prior chat context exists.
