@@ -24,4 +24,10 @@ Eliminate Human-As-API through a durable, observable, authenticated internal com
 `RUNTIME_VALIDATION=NOT_PERFORMED`  
 `SYSTEM_FUNCTIONAL=NOT_EVALUATED`
 
-See `docs/` for architecture, roadmap, independence criteria, and the HUMAN status contract.
+## Canonical documentation
+
+- [Product constitution](00_HUMAN/DOCS/01_PRODUCT_CONSTITUTION.md)
+- [Architecture](00_HUMAN/DOCS/02_ARCHITECTURE.md)
+- [Independence and HUMAN-visible status](00_HUMAN/DOCS/03_INDEPENDENCE_AND_STATUS.md)
+- [Roadmap](00_HUMAN/DOCS/04_ROADMAP.md)
+- [Repository information architecture](REPOSITORY_STRUCTURE.md)
